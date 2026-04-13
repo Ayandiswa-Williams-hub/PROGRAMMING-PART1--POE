@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\CyberAwarenessBot\CyberAwarenessBot\obj\Debug\net8.0\CyberAwarenessBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\CyberAwarenessBot\CyberAwarenessBot\obj\Debug\net8.0\CyberAwarenessBot.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\CyberAwarenessBot\CyberAwarenessBot\obj\Debug\net8.0\CyberAwarenessBot.AssemblyInfo.cs
+C:\Users\Student\source\repos\CyberAwarenessBot\CyberAwarenessBot\obj\Debug\net8.0\CyberAwarenessBot.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\CyberAwarenessBot\CyberAwarenessBot\bin\Debug\net8.0\CyberAwarenessBot.exe
+C:\Users\Student\source\repos\CyberAwarenessBot\CyberAwarenessBot\bin\Debug\net8.0\CyberAwarenessBot.deps.json
+C:\Users\Student\source\repos\CyberAwarenessBot\CyberAwarenessBot\bin\Debug\net8.0\CyberAwarenessBot.runtimeconfig.json
+C:\Users\Student\source\repos\CyberAwarenessBot\CyberAwarenessBot\bin\Debug\net8.0\CyberAwarenessBot.dll
+C:\Users\Student\source\repos\CyberAwarenessBot\CyberAwarenessBot\bin\Debug\net8.0\CyberAwarenessBot.pdb
+C:\Users\Student\source\repos\CyberAwarenessBot\CyberAwarenessBot\obj\Debug\net8.0\CyberAwarenessBot.dll
+C:\Users\Student\source\repos\CyberAwarenessBot\CyberAwarenessBot\obj\Debug\net8.0\refint\CyberAwarenessBot.dll
+C:\Users\Student\source\repos\CyberAwarenessBot\CyberAwarenessBot\obj\Debug\net8.0\CyberAwarenessBot.pdb
+C:\Users\Student\source\repos\CyberAwarenessBot\CyberAwarenessBot\obj\Debug\net8.0\CyberAwarenessBot.genruntimeconfig.cache
+C:\Users\Student\source\repos\CyberAwarenessBot\CyberAwarenessBot\obj\Debug\net8.0\ref\CyberAwarenessBot.dll
