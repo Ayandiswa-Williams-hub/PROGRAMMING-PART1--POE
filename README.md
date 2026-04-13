@@ -41,10 +41,7 @@ How to Use
 
 
 
- Notes
 
-The audio file must be in the output directory:
-  bin/Debug/net8.0/
 
 * Only `.wav` files are supported for audio playback
 
