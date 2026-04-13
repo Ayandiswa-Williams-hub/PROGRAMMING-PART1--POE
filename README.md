@@ -20,20 +20,7 @@ Well-structured using multiple classes
 * .NET (Console Application)
 * Visual Studio
 
-Project Structure
-```
-CyberAwarenessBot/
-│
-├── Program.cs          # Main entry point
-├── Chatbot.cs          # Chatbot logic and responses
-├── User.cs             # User input handling
-├── AudioPlayer.cs      # Plays greeting audio
-├── greeting.wav        # Voice greeting file
-│
-└── .github/
-    └── workflows/
-        └── dotnet.yml  # CI configuration
-```
+
 
  How to Run the Project
 
@@ -41,8 +28,8 @@ CyberAwarenessBot/
 2. Make sure the file **greeting.wav** is included
 3. Set file property:
 Copy to Output Directory → *Copy if newer
-     
-4. Build and run the project
+
+ Build and run the project
 
 How to Use
  Enter your name when prompted
@@ -58,7 +45,7 @@ How to Use
 
 The audio file must be in the output directory:
   bin/Debug/net8.0/
-  ```
+
 * Only `.wav` files are supported for audio playback
 
 Future Improvements
@@ -69,10 +56,6 @@ Future Improvements
 
  Author
 * Your Name Here
-
-## 📎 GitHub Repository
-
-()
 
 Presentation
 This project includes a demonstration video explaining:
@@ -90,4 +73,4 @@ This project demonstrates the use of:
 * Console UI design
 * Basic cybersecurity awareness concepts
 
----
+
