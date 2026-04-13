@@ -39,7 +39,10 @@ How to Use
  -“Tell me about passwords”
  - Type **exit** to close the chatbot
 
+ Notes
 
+The audio file must be in the output directory:
+  bin/Debug/net8.0/
 
 
 
