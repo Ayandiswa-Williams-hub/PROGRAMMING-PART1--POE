@@ -54,9 +54,6 @@ Future Improvements
 * Add database support
 * Improve chatbot intelligence
 
- Author
-* Your Name Here
-
 Presentation
 This project includes a demonstration video explaining:
 
