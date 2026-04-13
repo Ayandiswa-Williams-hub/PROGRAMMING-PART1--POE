@@ -22,13 +22,6 @@ Well-structured using multiple classes
 
 
 
- How to Run the Project
-
-1. Open the project in Visual Studio
-2. Make sure the file **greeting.wav** is included
-3. Set file property:
-Copy to Output Directory → *Copy if newer
-
  Build and run the project
 
 How to Use
